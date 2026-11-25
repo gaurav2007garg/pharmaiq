@@ -1,0 +1,37 @@
+segment,weight,attribute,level,utility
+Efficacy focused,0.4,Efficacy (response rate),30%,0.0
+Efficacy focused,0.4,Efficacy (response rate),45%,0.7
+Efficacy focused,0.4,Efficacy (response rate),60%,1.5
+Efficacy focused,0.4,Grade 3+ adverse events,10%,0.7
+Efficacy focused,0.4,Grade 3+ adverse events,20%,0.35
+Efficacy focused,0.4,Grade 3+ adverse events,30%,0.0
+Efficacy focused,0.4,Administration,IV every 2 weeks,0.0
+Efficacy focused,0.4,Administration,IV every 4 weeks,0.2
+Efficacy focused,0.4,Administration,Oral daily,0.45
+Efficacy focused,0.4,Monthly patient out-of-pocket cost,$0,0.3
+Efficacy focused,0.4,Monthly patient out-of-pocket cost,$100,0.15
+Efficacy focused,0.4,Monthly patient out-of-pocket cost,$300,0.0
+Safety focused,0.35,Efficacy (response rate),30%,0.0
+Safety focused,0.35,Efficacy (response rate),45%,0.4
+Safety focused,0.35,Efficacy (response rate),60%,0.85
+Safety focused,0.35,Grade 3+ adverse events,10%,1.5
+Safety focused,0.35,Grade 3+ adverse events,20%,0.7
+Safety focused,0.35,Grade 3+ adverse events,30%,0.0
+Safety focused,0.35,Administration,IV every 2 weeks,0.0
+Safety focused,0.35,Administration,IV every 4 weeks,0.2
+Safety focused,0.35,Administration,Oral daily,0.4
+Safety focused,0.35,Monthly patient out-of-pocket cost,$0,0.4
+Safety focused,0.35,Monthly patient out-of-pocket cost,$100,0.2
+Safety focused,0.35,Monthly patient out-of-pocket cost,$300,0.0
+Convenience focused,0.25,Efficacy (response rate),30%,0.0
+Convenience focused,0.25,Efficacy (response rate),45%,0.4
+Convenience focused,0.25,Efficacy (response rate),60%,0.9
+Convenience focused,0.25,Grade 3+ adverse events,10%,0.7
+Convenience focused,0.25,Grade 3+ adverse events,20%,0.35
+Convenience focused,0.25,Grade 3+ adverse events,30%,0.0
+Convenience focused,0.25,Administration,IV every 2 weeks,0.0
+Convenience focused,0.25,Administration,IV every 4 weeks,0.55
+Convenience focused,0.25,Administration,Oral daily,1.25
+Convenience focused,0.25,Monthly patient out-of-pocket cost,$0,0.5
+Convenience focused,0.25,Monthly patient out-of-pocket cost,$100,0.25
+Convenience focused,0.25,Monthly patient out-of-pocket cost,$300,0.0
